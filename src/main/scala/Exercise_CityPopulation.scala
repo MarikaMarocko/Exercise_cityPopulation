@@ -1,4 +1,4 @@
-import Exercise_cityPop.getCityYear
+
 
 object Exercise_CityPopulation extends App {
   def getCityYear(p0: Int, percentage: Double, delta: Int, targetPopulation: Int) = {

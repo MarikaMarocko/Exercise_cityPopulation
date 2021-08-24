@@ -16,7 +16,7 @@ object Exercise_cityPop extends App {
   }
 
   getCityYear(p0 = 1000, percentage = 2, delta = 50, targetPopulation = 1200)
-  getCityYear(p0 = 1500000, percentage = 2.5, delta = 10000, argetPopulation = 2000000)
+  getCityYear(p0 = 1500000, percentage = 2.5, delta = 10000, targetPopulation = 2000000)
   getCityYear(p0 = 1000, percentage = 2, delta = -50, targetPopulation = 12000)
 
 
